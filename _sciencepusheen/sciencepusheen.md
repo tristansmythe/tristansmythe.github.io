@@ -1,7 +1,6 @@
 ---
 title: "Science Pusheen"
-excerpt: "Origin of my Science Pusheen drawing"
-collection: sciencepusheen
+permalink: /sciencepusheen/
 ---
 
 ![Pusheen the Cat leading a Science Show](/images/measpusheenKellyStanford.jpg)
