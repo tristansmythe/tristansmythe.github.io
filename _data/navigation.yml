@@ -26,8 +26,8 @@ main:
   - title: "News"
     url: /news/
 
-  - title: "Science Pusheen"
-    url: /sciencepusheen/
+  # - title: "Science Pusheen"
+  #   url: /sciencepusheen/
   
   # - title: "CV"
   #   url: /cv-json/
