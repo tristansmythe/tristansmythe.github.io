@@ -11,7 +11,7 @@ redirect_from:
   <img src="/images/measpusheenKellyStanford.jpg"
        alt="Pusheen the Cat leading a Science Show - Drawn by Kelly Stanford"
        title="Tristan as Science Pusheen! Drawn by Kelly Stanford"
-       style="float:right; margin-left:20px; margin-top:20px; width:250px;">
+       style="float:right; margin-left:20px; margin-top:20px; margin-bottom:20px; width:250px;">
 </a>I am a Postdoctoral Research Scientist with Environment and Climate Change Canada (ECCC). I'm an analytical chemist. A hiker. A birder. And Canadian [Yonsei](https://en.wikipedia.org/wiki/Yonsei_(Japanese_diaspora)). I'm also a mu-dan (unranked) practitioner of [Kyūdō](https://en.wikipedia.org/wiki/Kyūdō).  
 
 ## Research Interests
