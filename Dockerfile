@@ -24,6 +24,8 @@ USER vscode
 # Copy Gemfile into the container (necessary for `bundle install`)
 COPY Gemfile ./
 
+# install python
+RUN apt-get update && apt-get install -y python3 python3-pip
 
 
 # Install bundler and dependencies
