@@ -11,8 +11,10 @@ redirect_from:
   <img src="/images/measpusheenKellyStanford.jpg"
        alt="Pusheen the Cat leading a Science Show - Drawn by Kelly Stanford"
        title="Tristan as Science Pusheen! Drawn by Kelly Stanford"
-       style="float:right; margin-left:20px; margin-top:20px; margin-bottom:20px; width:250px;">
-</a>I am a Postdoctoral Research Scientist with Environment and Climate Change Canada (ECCC). I'm an analytical chemist. A hiker. A birder. And Canadian [Yonsei](https://en.wikipedia.org/wiki/Yonsei_(Japanese_diaspora)). I'm also a mu-dan (unranked) practitioner of [Kyūdō](https://en.wikipedia.org/wiki/Kyūdō).  
+       style="float:right; margin-left:20px; margin-top:5px; margin-bottom:20px; width:270px;">
+</a>I am a Postdoctoral Research Scientist with Environment and Climate Change Canada (ECCC). 
+
+I'm an analytical chemist. A hiker. A birder. [Yonsei](https://en.wikipedia.org/wiki/Yonsei_(Japanese_diaspora)).
 
 ## Research Interests
 With the ever increasing complexity of chemical mixtures that humans and wildlife are exposed to, modernized and higher throughput methods are necessary to both detect and quantify contaminants in the environment, and to evaluate how these chemicals interact with the body. Environmental monitoring programs are typically limited to known contaminants, but advances in non-targeted analysis (NTA) methods provide the means for more complete measurements of the chemical 'exposome'.
@@ -30,3 +32,7 @@ Prior to starting my PhD in Ottawa, I briefly worked at the Canadian Department 
 
 ## Current work
 My current research is focused on the development of non-targeted suspect screening methods for the measurement of per- and polyfluoroalkyl substances (PFAS) in 3 species of birds: european starlings, tree swallows, and American herring gulls. 
+
+# Hobbies
+temp
+[//:] # (I'm also a mu-dan (unranked) practitioner of [Kyūdō](https://en.wikipedia.org/wiki/Kyūdō))
