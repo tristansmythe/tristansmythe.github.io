@@ -1,18 +1,18 @@
 ---
 permalink: /
-title: "Tristan Smythe, PhD - Home"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-# About me 
 <a href="/sciencepusheen">
   <img src="/images/measpusheenKellyStanford.jpg"
        alt="Pusheen the Cat leading a Science Show - Drawn by Kelly Stanford"
        title="Tristan as Science Pusheen! Drawn by Kelly Stanford"
        style="float:right; margin-left:10px; margin-top:5px; margin-bottom:20px; width:300px;">
 </a>
+
+# About me 
 I am a Postdoctoral Research Scientist with Environment and Climate Change Canada (ECCC). 
 
 I'm an analytical chemist. A hiker. A birder. [Yonsei](https://en.wikipedia.org/wiki/Yonsei_(Japanese_diaspora)).
