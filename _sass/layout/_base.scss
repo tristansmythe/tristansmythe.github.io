@@ -14,7 +14,7 @@ body {
 
   margin: 0;
   padding: $masthead-height 0 0;
-  padding-bottom: 0em;
+  padding-bottom: 0em; /* changed from 9em to remove the space at the bottom */
   font-family: $global-font-family;
   line-height: 1.5;
 
