@@ -18,12 +18,11 @@
   }
 
   @media screen and (min-width: $sidebar-screen-min-width) {
-    position: sticky;
-    top: $masthead-height;
-    max-height: calc(100vh - #{$masthead-height});
-    overflow: auto;            // internal scroll only if needed
+    height: 100vh;
+    overflow-y: auto;
+    position: fixed;            // <- makes it sit above the page, including the footer
+    padding-top: $masthead-height;
   }
-
 
   @include breakpoint($large) {
     @include span(2 of 12);
