@@ -12,12 +12,20 @@
     {% if site.author.bitbucket %}
       <li><a href="http://bitbucket.org/{{ site.author.bitbucket }}"><i class="fab fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
     {% endif %}
-    {% if site.atom_feed.hide != true %}
-    <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
-    {% endif %}
   </ul>
 </div>
 {% endif %}
+
+<div class="page__footer-details">
+  <p>Tristan Smythe, PhD (he/him)
+  <a href="tristan.smythe@ec.gc.ca">tristan.smythe@ec.gc.ca</a></p>
+  <p>Ph. xxx-xxx-xxxx</p>
+  <p>National Wildlife Research Centre
+  1125 Colonel By Dr.
+  Ottawa, ON, Canada
+  K1A 0H3</p>
+  <p>The National Wildlife Research Centre is located on the unceded, unsurrendered Territory of the Anishinaabe Algonquin Nation. These lands, including the water and wildlife within them were cared for and stewarded by the Omàmìwininìwag since time immemorial. I acknowledge that the settler relationships to both the land and the peoples of this land were and are continually broken and misused. At the time of writing, I take this moment to reflect on the privledges I have had here and elsewhere in Canada, to appreciate the natural beauty of this land, as well as acknowledge the harms that I have caused both implicitly by my silence and explicitly with my own thoughts, words, and actions. I commit myself to a continual unlearning of my internal biases and to antiracism in my work as a scientist.</p>
+</div>
 
 <div class="page__footer-copyright">
   &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}, {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.<br />
